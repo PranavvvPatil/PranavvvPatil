@@ -1,10 +1,10 @@
-### <div align="center">I'm Pranav, a full-stack developer 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Pranav, a Software developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working in NeuSpaarX, Hyberabad, as RactJs developer
+- 🔭 I’m currently working in NeuSpaarX, Hyberabad, as Software Intern
 
   
-- 🌱 I’m currently learning Backend  
+- 🌱 I’m currently learning AI-ML  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
